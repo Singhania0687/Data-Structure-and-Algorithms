@@ -112,8 +112,8 @@ Below is the breakdown of topics covered in the playlist:
 
 ## 🛠️ **How to Use This Repository**
 1. Clone the repository:
-   ```bash
-  https://github.com/Singhania0687/Data-Structure-and-Algorithms.git
+   ```
+   https://github.com/Singhania0687/Data-Structure-and-Algorithms.git
    ```
 2. Follow the playlist sequentially or focus on specific topics based on your needs.
 3. Practice problems provided in the `Practice-Problems` directory.
